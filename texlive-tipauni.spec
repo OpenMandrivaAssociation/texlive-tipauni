@@ -1,6 +1,6 @@
 Name:		texlive-tipauni
-Version:	64774
-Release:	2
+Version:	65817
+Release:	1
 Summary:	Producing Unicode characters with TIPA commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tipauni
