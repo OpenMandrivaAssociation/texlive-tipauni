@@ -3,7 +3,7 @@ Version:	65817
 Release:	1
 Summary:	Producing Unicode characters with TIPA commands
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tipauni
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tipauni
 License:	gpl3+ fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tipauni.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tipauni.doc.r%{version}.tar.xz
